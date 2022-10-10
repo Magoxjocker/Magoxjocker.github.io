@@ -3,9 +3,13 @@ body{
 }
 
 .bg-color{
-    background-color: #47ffbb;
+    background-color: #00d39b;
 }
 
 .card-color{
-    background-color: #00cd82;
+    background-color: #00be85;
+}
+
+.bg-color-nav{
+    background-color: #00a267;
 }
