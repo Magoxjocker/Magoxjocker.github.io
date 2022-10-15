@@ -2,14 +2,26 @@ body{
     font-family: 'Oswald', sans-serif;
 }
 
-.bg-color{
-    background-color: #00d39b;
+.inicio {
+    background-image: url(../imgs/header.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 20rem;
+}
+.home-text{
+    color: #687169;
+    padding-right: 50%;
 }
 
 .card-color{
-    background-color: #00be85;
+    background-color: #687169;
 }
 
 .bg-color-nav{
-    background-color: #00a267;
+    background-color: #687169;
+}
+
+.bg-color {
+    background-color: #687169;
 }
